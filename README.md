@@ -58,7 +58,7 @@ I'm a developer and creator focused on building real-world projects at the inter
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riiyansh-singh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=riiyansh-singh&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=riiyansh-singh&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riiyansh-singh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
